@@ -15,31 +15,30 @@ Dalam era yang semakin maju, penggunaan energi meningkat, baik itu untuk keperlu
 
 Dampak Energi pada Lingkungan : 
 
-1. Pencemaran Udara
-Penggunaan energi fosil meningkatkan polusi udara dan berkontribusi pada pemanasan global. Gas rumah kaca yang dihasilkan oleh penggunaan energi fosil, seperti karbon dioksida, metana, dan nitrogen oksida, menangkap panas di atmosfer dan meningkatkan suhu bumi.
+1. Pencemaran Udara Penggunaan energi fosil meningkatkan polusi udara dan berkontribusi pada pemanasan global. Gas rumah kaca yang dihasilkan oleh penggunaan energi fosil, seperti karbon dioksida, metana, dan nitrogen oksida, menangkap panas di atmosfer dan meningkatkan suhu bumi.
 
-2. Kerusakan Lingkungan Hidup
-Pembangunan infrastruktur energi fosil, seperti tambang batu bara dan kilang minyak, menyebabkan kerusakan habitat alami dan merusak ekosistem. Selain itu, penggunaan energi fosil juga menyebabkan pencemaran air dan tanah.
+2. Kerusakan Lingkungan Hidup Pembangunan infrastruktur energi fosil, seperti tambang batu bara dan kilang minyak, menyebabkan kerusakan habitat alami dan merusak ekosistem. Selain itu, penggunaan energi fosil juga menyebabkan pencemaran air dan tanah.
 
-3. Ketergantungan pada Sumber Energi Tertentu
-Penggunaan energi fosil membuat kita lebih tergantung pada sumber daya alam yang terbatas dan membuat kita rentan terhadap fluktuasi harga. Selain itu, penggunaan energi fosil juga membawa risiko keamanan energi, seperti gangguan pasokan akibat konflik politik atau bencana alam.
+3. Ketergantungan pada Sumber Energi Tertentu Penggunaan energi fosil membuat kita lebih tergantung pada sumber daya alam yang terbatas dan membuat kita rentan terhadap fluktuasi harga. Selain itu, penggunaan energi fosil juga membawa risiko keamanan energi, seperti gangguan pasokan akibat konflik politik atau bencana alam.
 
 Untuk itu saat nya kita bertransisi . .. Jenis – Jenis Energi yang dapat Mengurangi Dampak Negatif pada Lingkungan : 
 
-1. Energi Matahari, Pemanfaatan energi matahari melalui panel surya merupakan salah satu solusi energi terbarukan yang paling populer digunakan oleh orang-orang.
+Energi Matahari, Pemanfaatan energi matahari melalui panel surya. 
+Energi Angin, Turbin angin dapat diinstal di daerah yang berangin dan dapat menghasilkan energi yang cukup besar.
+Energi Air, Pembangkit listrik tenaga air menggunakan air untuk menggerakkan turbin, yang kemudian menghasilkan listrik.
+Energi Geotermal, energi yang dihasilkan dari panas bumi.
+Energi Biomassa, Energi ini dihasilkan dari sumber daya alam seperti kayu, limbah pertanian, dan limbah organik lainnya.
 
-2. Energi Angin, Energi angin adalah sumber energi bersih yang lain yang dapat digunakan untuk menghasilkan listrik. Turbin angin dapat diinstal di daerah yang berangin dan dapat menghasilkan energi yang cukup besar.
+Nah berbicara mengenai Transisi energi di Indonesia pada tahun 2025, pemerintah punya target energi baru terbarukan (EBT) sebesar 23%. Misal pembangungan  pengembangan energi bersih seperti Pembangkit Listrik Tenaga Surya (PLTS) yang sebelumnya bersumber dari Batu Bara. Di Instansi Perusahaan baik swasta maupun pemerintah sudah menerapkan konsep ESG, (Environment, Sosial, dan Goverment), singkatnya menjalankan usaha bisnis secara sustainable yang Berwawasan Lingkungan (KUBL) dan Kegiatan Usaha Berwawasan Sosial (KUBS).
 
-3. Energi Air, Energi ini dapat dihasilkan melalui pembangkit listrik tenaga air. Pembangkit listrik tenaga air menggunakan air untuk menggerakkan turbin, yang kemudian menghasilkan listrik. Selain itu, energi air juga dapat dihasilkan melalui turbin arus laut.
+Nah temen - temen berbicara secara komplek ke arah pemerintah memang terasa berat ya rasanya, tapi memulai dari diri sendiri untuk hal besar merubah dunia ternyata bisa loh dari rumah kita, maka kita sebut Energy Transition from the Living Room (Mulai dulu dari rumah kita). apa itu :
 
-4. Energi Geotermal, energi yang dihasilkan dari panas bumi. Panas bumi dapat digunakan untuk menghasilkan listrik dan pemanas ruangan.
+temen teman sering denger dong istilah Eco Home atau Smart Home. nah itu Karena tanpa disadari rumah itu sebagai konsumsi energi terbesar meskipun tidak banyak mengahasilakan karbon secara langsung tapi penggunaan listrik di rumah berpengaruh kepada ke penyedia listrik, semakin banyak konsumsi listrik di rumah otomatis semakin besar pula produksi listrik dari produsen. untuk itu ada beberapa langkah yang bisa kita lakukan di rumah kita misal 
+1. Perilaku Hemat Energi, misal pada konsumsi listrik pada prinsip nya kita mau mengurangi konsumsi listrik atau kita mengganti peralatan yang mengkonsumsi lisrik di rumah kita menjadi yang lebih hemat listrik. Misal mengganti lampu di rumah dari lampu Neon ke Lampu LED, bahkan sudah ada Lampu di rumah yang bersumber dari tenaga surya.
+2. Memilih Produk yang Hemat Energi, misal memilih produk AC di rumah yang hemat energi (ada standar bintang energi, / tekhnologi inverter).
+3. Kemandirian Energi, Setiap rumah mampu menghasilkan Energi secara mandiri, misal PLTS. Sebilah papan Ketika di sinari matahari maka menghasilkan energi listrik.
 
-5. Energi Biomassa, Energi ini dihasilkan dari sumber daya alam seperti kayu, limbah pertanian, dan limbah organik lainnya.
 
-Transisi energi di Indonesia pada tahun 2025 difokuskan pada pencapaian target bauran energi baru terbarukan (EBT) sebesar 23% dan pengembangan energi bersih lainnya seperti Pembangkit Listrik Tenaga Surya (PLTS) skala utilitas. Pemerintah optimis target EBT 23% dapat tercapai dan juga menyoroti pentingnya pengembangan PLTS atap dan utilitas untuk mencapai target tersebut. Selain itu, Indonesia juga berpartisipasi dalam inisiatif JETP (Just Energy Transition Partnership) yang bertujuan untuk memobilisasi pendanaan publik dan swasta untuk transformasi sektor kelistrikan. 
-Beberapa poin penting terkait transisi energi di Indonesia pada tahun 2025:
-Target Bauran EBT 23%:
-Pemerintah menargetkan bauran energi baru terbarukan (EBT) sebesar 23% pada tahun 2025, dan 31% pada tahun 2050. 
 
 ---
 ![TRANSISIENERGIHIJAU](https://github.com/Denny-Risnandar/Analisis-Transisi-Energi-Hijau-2025-di-Indonesia/blob/main/energi%20terbarukan.jpg)
