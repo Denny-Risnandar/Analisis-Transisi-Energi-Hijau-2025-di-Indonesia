@@ -35,24 +35,25 @@ Untuk itu saat nya kita bertransisi . .. Jenis – Jenis Energi yang dapat Mengu
 4. Energi Geotermal, energi yang dihasilkan dari panas bumi. Panas bumi dapat digunakan untuk menghasilkan listrik dan pemanas ruangan.
 
 5. Energi Biomassa, Energi ini dihasilkan dari sumber daya alam seperti kayu, limbah pertanian, dan limbah organik lainnya.
----
-![TRANSISIENERGIHIJAU](https://github.com/arry-hutomo/Analisis-Transisi-Energi-Hijau-2025-di-Indonesia/blob/main/TRANSISI%20ENERGI%20HIJAU.png)
+
+Transisi energi di Indonesia pada tahun 2025 difokuskan pada pencapaian target bauran energi baru terbarukan (EBT) sebesar 23% dan pengembangan energi bersih lainnya seperti Pembangkit Listrik Tenaga Surya (PLTS) skala utilitas. Pemerintah optimis target EBT 23% dapat tercapai dan juga menyoroti pentingnya pengembangan PLTS atap dan utilitas untuk mencapai target tersebut. Selain itu, Indonesia juga berpartisipasi dalam inisiatif JETP (Just Energy Transition Partnership) yang bertujuan untuk memobilisasi pendanaan publik dan swasta untuk transformasi sektor kelistrikan. 
+Beberapa poin penting terkait transisi energi di Indonesia pada tahun 2025:
+Target Bauran EBT 23%:
+Pemerintah menargetkan bauran energi baru terbarukan (EBT) sebesar 23% pada tahun 2025, dan 31% pada tahun 2050. 
 
 ---
+![TRANSISIENERGIHIJAU](https://github.com/Denny-Risnandar/Analisis-Transisi-Energi-Hijau-2025-di-Indonesia/blob/main/energi%20terbarukan.jpg)
+---
 
-Workshop: Eco Techno Leader - Analisis Transisi Energi Hijau 2025 di Indonesia 🌱💡
+💡 Nah setelah tau dampak negatif dari energi yang tidak ramah lingkungan, saat nya Mulai dari hal yang kecil, Mulai dari saat ini, dan di Mulai dari kita sendiri, tuk jadi pionir transaisi energi hijau ♻️. Membuat revolusi besar untuk NKRI ini butuh perjuangna ekstra, so mulai dari apa yang kamu bisa untuk bisa berkontribusi. Nah temen temen calon Techno Leader, yuk kita buat analisis sederhana untuk buat strategi dan inovasi energi terbarukan dengan menggunakan skill kita yang sudah di kasih paham sama Coach Ary Hutomo misal :
 
-Yuk, jadi pionir transisi energi hijau! 🚀✨ Workshop ini bakal kupas tuntas strategi & inovasi energi terbarukan di Indonesia tahun 2025 🌞🌊💨. Kita akan analisis peluang, tantangan, dan solusi buat masa depan rendah karbon 📊🔍.
-
-Apa yang bakal didapat? 🎁:
 🔸 Insight kebijakan terbaru pemerintah 📜🇮🇩
+
 🔸 Teknologi hijau terkini (surya, angin, hidro, dll.) ☀️🍃⚡
+
 🔸 Studi kasus sukses & roadmap implementasi 🗺️✅
+
 🔸 Networking dengan ahli & praktisi energi 🌐🤝
-
-Ditunggu partisipasinya! 🎉 Aksi kecil hari ini = dampak besar untuk bumi 🌍💚. Let’s lead the green revolution! ♻️🚀
-
-#EcoTechnoLeader #EnergiHijau2025 #IndonesiaHijau 🌿✨
 
 ---
 
@@ -61,28 +62,94 @@ Ditunggu partisipasinya! 🎉 Aksi kecil hari ini = dampak besar untuk bumi 🌍
 ---
 🌟✨ SELAMAT DATANG DI STAGE 2: ECO DATA PIONEERS! ✨🌟
 
+
 Halo, Eco-Techno Leaders masa depan! 🎉🌱 Bersiaplah masuk ke petualangan baru yang seru banget—kita akan jadi pionir data hijau untuk Indonesia yang lebih sustainable! 💚📊
 
 Di stage ini, kita akan:
-🔹 Hitung pajak karbon untuk patuhi regulasi 📜💰
-🔹 Deteksi greenwashing pakai data emisi 🕵️♂️🌍
-🔹 Analisis risiko lahan kurangi konflik sosial ⚖️🚜
-🔹 Belajar Python dari dasar sampai pro (if-else sampai modul!) 🐍💻
-🔹 Bikin portofolio keren buat usulan ke pemerintah 🏛️✨
+- Hitung pajak karbon untuk patuhi regulasi 📜💰
+- Deteksi greenwashing pakai data emisi 🕵️♂️🌍
+- Analisis risiko lahan kurangi konflik sosial ⚖️🚜
+- Belajar Python dari dasar sampai pro (if-else sampai modul!) 🐍💻
+- Bikin portofolio keren buat usulan ke pemerintah 🏛️✨
+
 
 Tools yang akan dipakai:
 🛠️ Anaconda + VSCode + Jupyter Notebook
 📚 Library: Pandas, NumPy, Matplotlib (siap jadi data wizard!)
+📜 Contoh Database / file excel / CSV
 
-Tenang! Tutorial ini ramah pemula, langkah demi langkah, pakai data realistis, dan pastinya—dampaknya nyata! 🚀
+---
 
-"Masa depan hijau dimulai dari langkah kecil kita hari ini. Yuk, bersama-sama wujudkan perubahan!" 🌿🙌
+## Query 1. Hitung pajak karbon untuk patuhi regulasi 💰 
 
-Doa & Semangat:
-"Semoga ilmu ini jadi berkah, bermanfaat untuk bumi dan sesama. Aamiin! 🤲✨"
+```
+# impor pandas untuk mengelola data csv
+import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+
+emisi_df = pd.read_csv("emisi_perusahaan.csv")
+konflik_lahan = pd.read_csv("konflik_lahan.csv")
+tren_df = pd.read_csv('tren_emisi.csv')
+
+# baca file csv emisi perusahaan
+df = pd.read_csv('C:/Energi_Hijau_2025/emisi_perusahaan.csv')
+
+# definisikan dulu batas pajak karbon (50 ton co2, sesuai dengan regulasi pemerintah)
+batas = 50
+
+# iterasi setiap baris di dataframe untuk cek emisi
+for index, row in df.iterrows(): 
+    # ambil nilai emisinya dari kolom emisi_2024
+    emisi = row ['Emisi_2024']
+    # ambil nama perusahaan untuk out put
+    perusahaan = row['Nama_Perusahaan']
+    # cek apakah emisi melebihi batas penggunaan, mengganakan f=else
+    if emisi > batas :
+        #  cetak status kena pajak jika emisi
+        print(f'{perusahaan} ADUH Kena pajak karbon dengan {emisi} ton ')
+    else :
+        #  cetak status pajak jika emsili <50ton
+        print(f"{perusahaan} BEBAS pajak karbon jika dengan {emisi} ton")
+```
+## Query 2 : Hitung Pajak Karbon
+
+tujuan menghitung pajak karbon untuk perusahaan
+- konsep : if-else
+- Output : nilai pajak IDR untuk setiap list perusahaan (emsisi perusahaan.csv)
+
+```
+# impor pandas untuk mengelola data csv
+import pandas as pd
+
+# baca file csv emisi perusahaan
+df = pd.read_csv('C:/Energi_Hijau_2025/emisi_perusahaan.csv')
+
+# definisikan dulu batas pajak karbon (50 ton co2, sesuai dengan regulasi pemerintah)
+batas = 50
+tarif = 20000
+
+# iterasi setiap baris di dataframe untuk cek emisi
+for index, row in df.iterrows(): 
+    # ambil nilai emisinya dari kolom emisi_2024
+    emisi = row ['Emisi_2024']
+    # ambil nama perusahaan untuk out put
+    perusahaan = row['Nama_Perusahaan']
+    # cek apakah emisi melebihi batas penggunaan, mengganakan f=else
+    if emisi > batas :
+        #  cetak status kena pajak jika emisi
+        pajak =(emisi - batas) * tarif
+        # Cetak nama perusahaan dan jumlah pajak
+        print(f'{perusahaan} kena pajak karbon Rp {pajak}')
+    else :
+        #  cetak status pajak jika emsili <50ton
+        print(f"{perusahaan} BEBAS pajak karbon ")
+```
 
 
-📌 Ready to rock? Klik link di bawah untuk mulai petualanganmu!
+
+
+
 
 [NEXT TO STAGES 2](https://arry-hutomo.github.io/Analisis-Transisi-Energi-Hijau-2025-di-Indonesia/)
 
