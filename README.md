@@ -29,19 +29,16 @@ Energi Air, Pembangkit listrik tenaga air menggunakan air untuk menggerakkan tur
 Energi Geotermal, energi yang dihasilkan dari panas bumi.
 Energi Biomassa, Energi ini dihasilkan dari sumber daya alam seperti kayu, limbah pertanian, dan limbah organik lainnya.
 
-Nah berbicara mengenai Transisi energi di Indonesia pada tahun 2025, pemerintah punya target energi baru terbarukan (EBT) sebesar 23%. Misal pembangungan  pengembangan energi bersih seperti Pembangkit Listrik Tenaga Surya (PLTS) yang sebelumnya bersumber dari Batu Bara. Di Instansi Perusahaan baik swasta maupun pemerintah sudah menerapkan konsep ESG, (Environment, Sosial, dan Goverment), singkatnya menjalankan usaha bisnis secara sustainable yang Berwawasan Lingkungan (KUBL) dan Kegiatan Usaha Berwawasan Sosial (KUBS). Misal di instansi perbankan di tempat saya bekerja sudah menerapakan ESG seperti ini  :
+Nah berbicara mengenai Transisi energi di Indonesia pada tahun 2025, pemerintah punya target energi baru terbarukan (EBT) sebesar 23%. Misal pembangungan  pengembangan energi bersih seperti Pembangkit Listrik Tenaga Surya (PLTS) yang sebelumnya bersumber dari Batu Bara. Di Instansi Perusahaan baik swasta maupun pemerintah sudah menerapkan konsep ESG, (Environment, Sosial, dan Goverment), singkatnya menjalankan usaha bisnis secara sustainable yang Berwawasan Lingkungan (KUBL) dan Kegiatan Usaha Berwawasan Sosial (KUBS). Misal di instansi perbankan yang sudah menerapakan ESG seperti ini  :
 
-(https://github.com/Denny-Risnandar/Analisis-Transisi-Energi-Hijau-2025-di-Indonesia/blob/main/ESG%20BSI.png)
-
+![TRANSISIENERGIHIJAU](https://github.com/Denny-Risnandar/Analisis-Transisi-Energi-Hijau-2025-di-Indonesia/blob/main/ESG%20BSI.png)
 
 Nah temen - temen berbicara secara komplek ke arah pemerintah memang terasa berat ya rasanya, tapi memulai dari diri sendiri untuk hal besar merubah dunia ternyata bisa loh dari rumah kita, maka kita sebut Energy Transition from the Living Room (Mulai dulu dari rumah kita). apa itu :
 
 temen teman sering denger dong istilah Eco Home atau Smart Home. nah itu Karena tanpa disadari rumah itu sebagai konsumsi energi terbesar meskipun tidak banyak mengahasilakan karbon secara langsung tapi penggunaan listrik di rumah berpengaruh kepada ke penyedia listrik, semakin banyak konsumsi listrik di rumah otomatis semakin besar pula produksi listrik dari produsen. untuk itu ada beberapa langkah yang bisa kita lakukan di rumah kita misal 
 1. Perilaku Hemat Energi, misal pada konsumsi listrik pada prinsip nya kita mau mengurangi konsumsi listrik atau kita mengganti peralatan yang mengkonsumsi lisrik di rumah kita menjadi yang lebih hemat listrik. Misal mengganti lampu di rumah dari lampu Neon ke Lampu LED, bahkan sudah ada Lampu di rumah yang bersumber dari tenaga surya.
 2. Memilih Produk yang Hemat Energi, misal memilih produk AC di rumah yang hemat energi (ada standar bintang energi, / tekhnologi inverter).
-3. Kemandirian Energi, Setiap rumah mampu menghasilkan Energi secara mandiri, misal PLTS. Sebilah papan Ketika di sinari matahari maka menghasilkan energi listrik.
-
-
+3. Kemandirian Energi, Setiap rumah mampu menghasilkan Energi secara mandiri, misal PLTS. Sebilah papan yang Ketika di sinari matahari maka menghasilkan energi listrik.
 
 ---
 ![TRANSISIENERGIHIJAU](https://github.com/Denny-Risnandar/Analisis-Transisi-Energi-Hijau-2025-di-Indonesia/blob/main/energi%20terbarukan.jpg)
@@ -57,13 +54,15 @@ temen teman sering denger dong istilah Eco Home atau Smart Home. nah itu Karena 
 
 🔸 Networking dengan ahli & praktisi energi 🌐🤝
 
+Nah misal contoh kasus Transisi Energi di dalam rumah, kita bisa mengukur antara Jumlah Watt listrik rumah dengan biaya listrik yang timbul. Jika semakin mahal biaya listrik yang timbul di pastikan perilaku dalam rumah tersebut boros energi, sehingga bisa kita analisis untuk dilakukan gerakan Rumah Ramah Energi (Energy-Efficient House) untuk mengurangi penggunaan energi melalui berbagai cara, seperti isolasi yang baik, penggunaan peralatan hemat energi, dan penggunaan sumber energi terbarukan
+
 ---
 
 ![ROADMAP](https://github.com/arry-hutomo/Analisis-Transisi-Energi-Hijau-2025-di-Indonesia/blob/main/ROADMAP.png)
 
 ---
-🌟✨ SELAMAT DATANG DI STAGE 2: ECO DATA PIONEERS! ✨🌟
 
+🌟✨ SELAMAT DATANG DI STAGE 2: ECO DATA PIONEERS! ✨🌟
 
 Halo, Eco-Techno Leaders masa depan! 🎉🌱 Bersiaplah masuk ke petualangan baru yang seru banget—kita akan jadi pionir data hijau untuk Indonesia yang lebih sustainable! 💚📊
 
