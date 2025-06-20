@@ -29,7 +29,10 @@ Energi Air, Pembangkit listrik tenaga air menggunakan air untuk menggerakkan tur
 Energi Geotermal, energi yang dihasilkan dari panas bumi.
 Energi Biomassa, Energi ini dihasilkan dari sumber daya alam seperti kayu, limbah pertanian, dan limbah organik lainnya.
 
-Nah berbicara mengenai Transisi energi di Indonesia pada tahun 2025, pemerintah punya target energi baru terbarukan (EBT) sebesar 23%. Misal pembangungan  pengembangan energi bersih seperti Pembangkit Listrik Tenaga Surya (PLTS) yang sebelumnya bersumber dari Batu Bara. Di Instansi Perusahaan baik swasta maupun pemerintah sudah menerapkan konsep ESG, (Environment, Sosial, dan Goverment), singkatnya menjalankan usaha bisnis secara sustainable yang Berwawasan Lingkungan (KUBL) dan Kegiatan Usaha Berwawasan Sosial (KUBS).
+Nah berbicara mengenai Transisi energi di Indonesia pada tahun 2025, pemerintah punya target energi baru terbarukan (EBT) sebesar 23%. Misal pembangungan  pengembangan energi bersih seperti Pembangkit Listrik Tenaga Surya (PLTS) yang sebelumnya bersumber dari Batu Bara. Di Instansi Perusahaan baik swasta maupun pemerintah sudah menerapkan konsep ESG, (Environment, Sosial, dan Goverment), singkatnya menjalankan usaha bisnis secara sustainable yang Berwawasan Lingkungan (KUBL) dan Kegiatan Usaha Berwawasan Sosial (KUBS). Misal di instansi perbankan di tempat saya bekerja sudah menerapakan ESG seperti ini  :
+
+(https://github.com/Denny-Risnandar/Analisis-Transisi-Energi-Hijau-2025-di-Indonesia/blob/main/ESG%20BSI.png)
+
 
 Nah temen - temen berbicara secara komplek ke arah pemerintah memang terasa berat ya rasanya, tapi memulai dari diri sendiri untuk hal besar merubah dunia ternyata bisa loh dari rumah kita, maka kita sebut Energy Transition from the Living Room (Mulai dulu dari rumah kita). apa itu :
 
